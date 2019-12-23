@@ -2,7 +2,7 @@
 
 > A dark theme for [X](http://link-to-x.com).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/sublime.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 
