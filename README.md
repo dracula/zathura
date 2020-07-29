@@ -2,11 +2,17 @@
 
 > A dark theme for [zathura](https://pwmt.org/projects/zathura/).
 
-![Screenshot](./screenshot.png)
+![Dark Mode](./darkmode.png)
+
+![Light Mode](./lightmode.png)
 
 ## Install
 
 All instructions can be found at [draculatheme.com/zathura](https://draculatheme.com/zathura).
+
+## Features
+
+* \<C-i\> will switch between a light and dark background
 
 ## Team
 
