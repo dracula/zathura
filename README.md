@@ -1,12 +1,12 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [zathura](https://pwmt.org/projects/zathura/)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [zathura](https://pwmt.org/projects/zathura/).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/x](https://draculatheme.com/x).
+All instructions can be found at [draculatheme.com/zathura](https://draculatheme.com/zathura).
 
 ## Team
 
