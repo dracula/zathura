@@ -12,7 +12,7 @@ All instructions can be found at [draculatheme.com/zathura](https://draculatheme
 
 ## Features
 
-* \<C-i\> will switch between a light and dark background
+* \<C-r\> will switch between a light and dark background
 
 ## Team
 

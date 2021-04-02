@@ -1,8 +1,6 @@
 set window-title-basename "true"
 set selection-clipboard "clipboard"
 
-map <C-i> recolor
-
 # Dracula color theme for Zathura
 # Swaps Foreground for Background to get a light version if the user prefers
 
